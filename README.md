@@ -4,11 +4,11 @@ The purpose of this challenge was to build an app that scrapes websites for data
 
 The two additional Bootstrap 3 components used to style the webpage were changing the "Scrape New Data" button to green and condensing the facts table. 
 
-## Web App Images
+## Web App Results
 ![alt text](https://github.com/coconnell022/Mission-to-Mars/blob/main/Images/webpage_1.png?raw=true)
 ![alt text](https://github.com/coconnell022/Mission-to-Mars/blob/main/Images/webpage_2.png?raw=true)
 
-## Web App Images Displayed on a iPhone
+## Web App Results (Displayed on a iPhone)
 ![alt text](https://github.com/coconnell022/Mission-to-Mars/blob/main/Images/webpage_mobile.png?raw=true)
 
 
